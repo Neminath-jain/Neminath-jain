@@ -1,117 +1,63 @@
-# 👋 Hi, I'm Neminath Ravindra Dubale
+# Hi, I'm Neminath 👋
 
-### AI & Machine Learning Student | Python Developer | Backend Developer | Generative AI Enthusiast
+I'm an AIML undergraduate who enjoys building practical software using AI, backend development, and data-driven systems. Most of my work revolves around turning ideas into working applications rather than just experimenting with models.
 
----
-
-# 🚀 About Me
-
-- 🎓 B.E. in Artificial Intelligence & Machine Learning
-- 💻 Passionate about AI, Backend Development, and Software Engineering
-- 🌱 Currently learning Advanced Machine Learning, Quantitative Finance
-- 🚀 Looking for AI/ML, Backend, and Software Engineering Internships
-- 📚 Always learning new technologies and building real-world projects
+Currently I'm focused on building projects in:
+- AI-powered SaaS applications
+- Backend development with Django & FastAPI
+- Generative AI applications
+- Financial AI & Quantitative Research
+- Cybersecurity
 
 ---
 
-# 💻 Programming Languages
+## Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+### Languages
+Python • SQL • Java
 
+### Backend
+Django • FastAPI • Flask • REST APIs
 
----
+### AI / ML
+Scikit-Learn • OpenCV • Pandas • NumPy • Machine Learning • Deep Learning
 
-# ⚙ Backend Development
+### Generative AI
+LLMs • Prompt Engineering • LangChain • LangGraph • RAG • MCP
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+### Database
+PostgreSQL • MySQL • SQLite • Redis
 
----
-
-# 🎨 Frontend
-
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-
----
-
-# 🗄 Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+### Tools
+Git • GitHub • Docker • Postman • VS Code
 
 ---
 
-# 🤖 Artificial Intelligence & Machine Learning
+## What I'm Building
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+### 🛡️ PhishGuard AI
+Enterprise phishing detection platform built with Django, AI models, and REST APIs.
 
----
+### 📊 FinIntel
+An AI-powered financial intelligence platform for market analysis, research, and investment insights.
 
-# 🧠 Generative AI
+### 📄 AI Resume Analyzer
+A Django application that evaluates resumes using LLMs and compares them against job descriptions.
 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge)
+### 🏃 Human Activity Recognition
+Computer vision project using OpenCV and Scikit-Learn for real-time activity detection.
 
 ---
 
-# 📊 Data Analysis
+## Current Focus
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau)
-
----
-
-
----
-
-# 🚀 Featured Projects
-
-- 📄 AI Resume Analyzer
-- 🏃 Human Activity Recognition
-
+- Building production-ready AI applications
+- Learning quantitative finance
+- Improving backend architecture
+- Writing cleaner, scalable code
 
 ---
 
-# 🌱 Currently Learning
+## Beyond Coding
 
-- Quantitative Finance
-- AI Agents
-- LangGraph
-- MCP
-- Advanced Django
-- Docker
-- System Design
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Build 10 AI Projects
-- ✅ Build a Quant Research Platform
-- ✅ Contribute to Open Source
-- ✅ Reach 300+ LeetCode Problems
-- ✅ Publish Technical Blogs
-- ✅ Secure an AI/ML Internship
-
----
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Neminath-jain&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Neminath-jain&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Neminath-jain&layout=compact&theme=tokyonight)
-
----
-
-# 📫 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/neminath-ravindra-dubale
-- 🐙 GitHub: https://github.com/Neminath-jain
+When I'm not coding, you'll probably find me reading about financial markets, exploring new AI research papers, or solving programming problems.
