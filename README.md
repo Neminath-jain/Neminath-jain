@@ -93,9 +93,6 @@ I'm continuously expanding my skills in Generative AI, Quantitative Finance, and
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Neminath-jain&theme=github_dark&utcOffset=5.5"/>
 
-## 💻 Coding Stats
-
-![](https://github-readme-stats.vercel.app/api/wakatime?username=Neminath-jain)
 
 ## 🐍 Contribution Snake
 
@@ -104,7 +101,7 @@ I'm continuously expanding my skills in Generative AI, Quantitative Finance, and
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgressql,sql,git,github,vscodeh&perline=8"/>
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,mysql,git,github,vscodeh&perline=8"/>
 </p>
 
 <p align="center">
