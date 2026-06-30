@@ -1,8 +1,8 @@
 ## 👨‍💻 About Me
 
-I'm an Artificial Intelligence & Machine Learning student passionate about building intelligent software that solves real-world problems. My interests lie at the intersection of AI, backend engineering, and financial technology, where I enjoy developing scalable applications using Python, Django, and Machine Learning.
+I'm an Artificial Intelligence & Machine Learning engineering undergraduate passionate about building intelligent software that solves real-world problems. My interests lie at the intersection of AI, backend engineering, and financial technology, where I enjoy developing scalable applications using Python, Django, and Machine Learning.
 
-I'm continuously exploring Generative AI, cybersecurity, and quantitative finance while working on projects that bridge research with practical software development.
+I'm continuously expanding my skills in Generative AI, Quantitative Finance, and software engineering through hands-on projects and continuous learning.
 
 ## 💻 Programming Languages
 
@@ -50,11 +50,8 @@ I'm continuously exploring Generative AI, cybersecurity, and quantitative financ
 
 # 🚀 Featured Projects
 
-- 🛡️ PhishGuard AI
-- 📈 FinIntel
 - 📄 AI Resume Analyzer
 - 🏃 Human Activity Recognition
-- 🤖 AI Interview Assistant
 
 ---
 # 🌱 Currently Learning
@@ -86,16 +83,6 @@ I'm continuously exploring Generative AI, cybersecurity, and quantitative financ
 [![Neminath's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Neminath-jain&theme=github-dark&hide_border=true)](https://github.com/Neminath-jain)
 
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Neminath-jain&theme=algolia&no-frame=true&row=2&column=4)
-
----
-
-## 📅 Contribution Calendar
-
-![](https://github-contributor-stats.vercel.app/api?username=Neminath-jain&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
-
 ## 🌟 GitHub Summary
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Neminath-jain&theme=github_dark"/>
@@ -117,11 +104,11 @@ I'm continuously exploring Generative AI, cybersecurity, and quantitative financ
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,postgres,mysql,redis,docker,git,github,linux,vscode,opencv,tensorflow,pytorch&perline=8"/>
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgressql,sql,git,github,vscodeh&perline=8"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Student;Backend+Developer;Building+AI+Products;Financial+Intelligence+Platforms;Always+Learning+Always+Building"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Engineer;Python+Backend+Developer;Building+AI+Products;Financial+Intelligence+Platforms;Always+Learning+Always+Building"/>
 </p>
 
 <p align="center">
