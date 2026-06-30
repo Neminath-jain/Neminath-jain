@@ -1,16 +1,162 @@
-## Hi there 👋
+# 👋 Hi, I'm Neminath Ravindra Dubale
 
-<!--
-**Neminath-jain/Neminath-jain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI & Machine Learning Student | Python Developer | Backend Developer | Generative AI Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🚀 About Me
+
+- 🎓 B.E. in Artificial Intelligence & Machine Learning
+- 💻 Passionate about AI, Backend Development, and Software Engineering
+- 🌱 Currently learning Advanced Machine Learning, Quantitative Finance, and System Design
+- 🚀 Looking for AI/ML, Backend, and Software Engineering Internships
+- 📚 Always learning new technologies and building real-world projects
+
+---
+
+# 💻 Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c)
+
+---
+
+# ⚙ Backend Development
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-61DAFB?style=for-the-badge)
+
+---
+
+# 🎨 Frontend
+
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+# 🗄 Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
+
+---
+
+# 🤖 Artificial Intelligence & Machine Learning
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-5C5C5C?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-blue?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+
+---
+
+# 🧠 Generative AI
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/Transformers-FFB000?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-00B894?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-4CAF50?style=for-the-badge)
+![Vector Database](https://img.shields.io/badge/Vector%20Database-6C63FF?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-blue?style=for-the-badge)
+
+---
+
+# 📊 Data Analysis
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau)
+
+---
+
+# ☁ DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+
+---
+
+# 🚀 Featured Projects
+
+- 🛡️ PhishGuard AI
+- 📈 FinIntel
+- 📄 AI Resume Analyzer
+- 🏃 Human Activity Recognition
+- 🤖 AI Interview Assistant
+
+---
+
+# 🏆 Achievements
+
+- 🥉 3rd Place - Avinya Techknows Hackathon
+- 👨‍💻 Team Leader - Technovate Hackathon
+- 💯 50+ LeetCode Problems Solved
+
+---
+
+# 📜 Certifications
+
+- Oracle Cloud Infrastructure Generative AI Professional
+- Google Cloud Generative AI
+- NPTEL Cloud Computing
+- Quantium Data Analytics Virtual Experience
+
+---
+
+# 🌱 Currently Learning
+
+- Quantitative Finance
+- AI Agents
+- LangGraph
+- MCP
+- Advanced Django
+- Docker
+- System Design
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Build 10 AI Projects
+- ✅ Build a Quant Research Platform
+- ✅ Contribute to Open Source
+- ✅ Reach 300+ LeetCode Problems
+- ✅ Publish Technical Blogs
+- ✅ Secure an AI/ML Internship
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Neminath-jain&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Neminath-jain&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Neminath-jain&layout=compact&theme=tokyonight)
+
+---
+
+# 📫 Connect With Me
+
+- 📧 Email: **neminathr18@gmail.com**
+- 💼 LinkedIn: https://linkedin.com/in/neminath-ravindra-dubale
+- 🐙 GitHub: https://github.com/Neminath-jain
