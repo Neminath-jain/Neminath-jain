@@ -126,6 +126,5 @@ I'm continuously expanding my skills in Generative AI, Quantitative Finance, and
 
 # 📫 Connect With Me
 
-- 📧 Email: **neminathr18@gmail.com**
 - 💼 LinkedIn: https://linkedin.com/in/neminath-ravindra-dubale
 - 🐙 GitHub: https://github.com/Neminath-jain
